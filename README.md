@@ -5,7 +5,7 @@ Hi, my name is Dylan Kraft and I am a Computer Science student at the University
 ## Projects
 ### Rainball
 DIMA 298 | Creative Coding
-https://github.com/kraf9284/rainball
+\nhttps://github.com/kraf9284/rainball
 Final project for my Creative Coding class. I decided to make an endless scroll web game using WebGL, Three.js, some 3D models that I created on my own.
 
 ### GLSL Illumination Demo
