@@ -4,19 +4,16 @@ Hi, my name is Dylan Kraft and I am a Computer Science student at the University
 
 ## Projects
 ### Rainball
-DIMA 298 | Creative Coding
-<br>https://github.com/kraf9284/rainball
-Final project for my Creative Coding class. I decided to make an endless scroll web game using WebGL, Three.js, some 3D models that I created on my own.
+DIMA 298 | Creative Coding - https://github.com/kraf9284/rainball
+<br>Final project for my Creative Coding class. I decided to make an endless scroll web game using WebGL, Three.js, some 3D models that I created on my own.
 
 ### GLSL Illumination Demo
-CISC 420 | Computer Graphics
-<br>https://github.com/kraf9284/cg-illumination
+CISC 420 | Computer Graphics - https://github.com/kraf9284/cg-illumination
 <br>The last assignment from my Computer Graphics course. We were tasked with completing the GLSL fragment and vertex shaders for two different kinds of lighting algorithms, and making 3D scenes to demonstrate the shaders.
 
 
 ### GLSL Fragment Shader Filter Demo
-CISC 420 | Computer Graphics
-<br>https://github.com/kraf9284/cg-fragmentshaders
+CISC 420 | Computer Graphics - https://github.com/kraf9284/cg-fragmentshaders
 <br>Take home portion of the final for Computer Graphics. Had to make multiple fragment shaders for different filters that would be applied to the video on the starter code and/or to your webcam footage.
 
 <!--
