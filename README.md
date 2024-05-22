@@ -1,5 +1,8 @@
-## Hi, my name is Dylan Kraft and I am a Computer Science student at the University of St. Thomas! In addition to being interested in software engineering and problem solving, I am also very passionate about exploring my creativity and making art, which led me to become a Digital Media Art (DIMA) minor in addition to my major in CS. Through my DIMA minor and CS major combination, I ended up taking Creative Coding and Computer Graphics, which are both courses that allow for coding in addition to creative expression. Below are three projects I think best represent this interweaving of creativity and programming, in addition to what class/discipline it came from. Check out their respective repositories and those READEME's if you want to find out more about them!
+# Signature Work Portfolio
+## About Me
+Hi, my name is Dylan Kraft and I am a Computer Science student at the University of St. Thomas! In addition to being interested in software engineering and problem solving, I am also very passionate about exploring my creativity and making art, which led me to become a Digital Media Art (DIMA) minor in addition to my major in CS. Through my DIMA minor and CS major combination, I ended up taking Creative Coding and Computer Graphics, which are both courses that allow for coding in addition to creative expression. Below are three projects I think best represent this interweaving of creativity and programming, in addition to what class/discipline it came from. Check out their respective repositories and those READEME's if you want to find out more about them!
 
+## Projects
 Rainball
 DIMA 298 | Creative Coding
 https://github.com/kraf9284/rainball
